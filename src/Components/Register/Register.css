@@ -1,0 +1,19 @@
+.body {
+    background-color: #ecf2f9;
+    height: 100vh;
+}
+
+.card {
+    background-color: #a2d5f2 !important;
+    width: 25%;
+    height: 25rem;
+    margin-left: 35rem;
+    margin-top: 8rem;
+    box-shadow: 5px 5px 5px rgb(74, 81, 83);
+    border-radius: 11px;
+}
+
+.form {
+    padding: 2rem;
+    margin-top: 0rem;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.mov-card {
+    width: 60rem;
+    margin-left: 17rem;
+    padding: 2rem;;
+}
+
+.title {
+    font-size: 2.8rem;
+    font-weight: bold !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.imdb {
+    font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.desc-container {
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-family: 'Poppins', sans-serif !important;
+    line-height: 2;
+}
+
+.cast {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.reviews-head {
+    margin-top: 1.5rem;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 26px;
+}
+
+.reviews {
+    font-family: 'Poppins', sans-serif !important;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    text-align: left;
+    line-height: 2;
+    font-size: 18px;
+}
+
+.main-body {
+    padding-bottom: 2rem;
+}
