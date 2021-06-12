@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# MovieHub App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app makes the api request to the movie api and displays the movies.
+
+## App Demo
+[![Watch the video](https://github.com/Ganesh-Sindagi/MovieHub-react.js/blob/main/APP%20DEMO/MoviHub-APP.mp4)
 
 ## Available Scripts
 
