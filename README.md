@@ -3,7 +3,7 @@
 This app makes the api request to the movie api and displays the movies.
 
 ## App Demo
-Click on the photo to watch the full video.
+Click on the image to watch the full video.
 
 [![Watch the video](https://github.com/Ganesh-Sindagi/MovieHub-react.js/blob/main/APP%20DEMO/movie-detail.png)](https://github.com/Ganesh-Sindagi/MovieHub-react.js/blob/main/APP%20DEMO/MoviHub-APP.mp4)
 
